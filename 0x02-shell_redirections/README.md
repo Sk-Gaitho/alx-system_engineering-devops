@@ -16,3 +16,4 @@
 15 - Displays the number of lines that contain the pattern "bin" in the etc-passwd file
 16 - Displays lines containing root and 3 lines after
 17 - Displays lines that do not contain the pattern bin
+18 - display all lines starting with a letter
