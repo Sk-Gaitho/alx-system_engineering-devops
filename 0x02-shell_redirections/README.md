@@ -15,3 +15,4 @@
 14 - Displays lines containing the pattern "root" from a the etc-passwd file
 15 - Displays the number of lines that contain the pattern "bin" in the etc-passwd file
 16 - Displays lines containing root and 3 lines after
+17 - Displays lines that do not contain the pattern bin
