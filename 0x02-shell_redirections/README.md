@@ -6,3 +6,4 @@
 5 - Displays first 10 lines of /etc/passwd
 6 - Displays the third line of the file iacta
 7 -creates a file with lots of special characters
+8 - writes result of ls -la to a file
