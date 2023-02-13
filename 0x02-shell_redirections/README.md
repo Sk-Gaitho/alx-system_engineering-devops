@@ -8,3 +8,4 @@
 7 -creates a file with lots of special characters
 8 - writes result of ls -la to a file
 9 - Duplicates the last line of iacta
+10 - Deletes all the regular files with a .js extension
