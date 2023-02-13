@@ -10,3 +10,4 @@
 9 - Duplicates the last line of iacta
 10 - Deletes all the regular files with a .js extension
 11 - counts the number of directories and sub directories in the current directory
+12 - script that displays the 10 newest files in the current directory
