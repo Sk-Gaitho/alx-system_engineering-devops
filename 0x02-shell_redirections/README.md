@@ -18,3 +18,4 @@
 17 - Displays lines that do not contain the pattern bin
 18 - display all lines starting with a letter
 19 - Replace all characters A and c to Z and e respectively
+20 - Removes all letters c and C from input
