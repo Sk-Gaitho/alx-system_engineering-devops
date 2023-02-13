@@ -12,3 +12,4 @@
 11 - counts the number of directories and sub directories in the current directory
 12 - script that displays the 10 newest files in the current directory
 13 - script takes a list of words as input and prints only words that appear exactly once
+14 - Displays lines containing the pattern "root" from a the etc-passwd file
