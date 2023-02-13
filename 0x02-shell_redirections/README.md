@@ -23,3 +23,4 @@
 22 - Displays all users and their home directories, sorted by users
 23 - finds all empty files and directories in the current directory and all sub-directories
 24 - Displays all the files with a .gif extension in the current directory and all its sub-directories.
+25 - Displays acrostics that use the first letter of each line
