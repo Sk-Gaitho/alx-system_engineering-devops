@@ -14,3 +14,4 @@
 13 - script takes a list of words as input and prints only words that appear exactly once
 14 - Displays lines containing the pattern "root" from a the etc-passwd file
 15 - Displays the number of lines that contain the pattern "bin" in the etc-passwd file
+16 - Displays lines containing root and 3 lines after
